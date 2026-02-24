@@ -1,3 +1,1 @@
 # Mean reversion budgeting.
-
-Weight Allocation for a Diversified Mean-Reverting Portfolio Weight allocation is performed for a diversified portfolio composed of multiple mean-reverting spreads. The log-likelihoods refer to the maximum values obtained by maximizing the log-likelihood function, which is used to estimate the "optimal" parameters of the Ornstein-Uhlenbeck process. This methodology assigns higher weights to spreads that exhibit stronger mean-reverting behavior — that is, those that revert more quickly to their mean. Due to this weighting scheme, the resulting portfolio weights may be extreme in certain cases.
